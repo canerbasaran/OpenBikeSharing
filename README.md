@@ -63,3 +63,5 @@ osmdroid):
 
 Internet access is needed to download the map tiles and the stations. Location access is only used
 to locate you on the map. Access to the SD card is required by osmdroid to cache the tiles.
+
+[DO](https://m.do.co/c/f31e941aecd1)
